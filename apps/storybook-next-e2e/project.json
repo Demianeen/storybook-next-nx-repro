@@ -1,0 +1,9 @@
+{
+  "name": "storybook-next-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/storybook-next-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["storybook-next"],
+  "// targets": "to see all targets run: nx show project storybook-next-e2e --web",
+  "targets": {}
+}
